@@ -22,8 +22,8 @@
 </p>
 
 <h3 align="left">Me all day night:</h3>
-<p align="center">
-  <img src="https://i.giphy.com/KpACNEh8jXK2Q.webp" alt="fun gif" width="600" />
+<p align="left">
+  <img src="https://i.giphy.com/KpACNEh8jXK2Q.webp" alt="fun gif" width="500" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
