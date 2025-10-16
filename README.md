@@ -16,4 +16,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegetosuguru&show_icons=true&locale=en&layout=compact" alt="thegetosuguru" /></p>
 
-![Image]([./src/assets/home.png](https://i.giphy.com/o0vwzuFwCGAFO.webp))
+![Image](https://i.giphy.com/o0vwzuFwCGAFO.webp]](https://i.giphy.com/o0vwzuFwCGAFO.webp))
