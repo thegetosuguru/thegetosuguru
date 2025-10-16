@@ -16,4 +16,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegetosuguru&show_icons=true&locale=en&layout=compact" alt="thegetosuguru" /></p>
 
-![Image](https://i.giphy.com/o0vwzuFwCGAFO.webp]](https://i.giphy.com/o0vwzuFwCGAFO.webp))
+<p align="center">
+  <img src="https://i.giphy.com/o0vwzuFwCGAFO.webp" alt="fun gif" width="300" />
+</p>
+
