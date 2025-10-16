@@ -21,7 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thegetosuguru&show_icons=true&locale=en&layout=compact" alt="thegetosuguru" />
 </p>
 
-<h3 align="left">Me all day night:</h3>
+<h3 align="left">Me all day and night:</h3>
 <p align="left">
   <img src="https://i.giphy.com/KpACNEh8jXK2Q.webp" alt="fun gif" width="500" />
 </p>
