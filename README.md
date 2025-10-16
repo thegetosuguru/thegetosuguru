@@ -16,12 +16,14 @@
   <a href="https://www.codechef.com/users/thegetosuguru" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thegetosuguru" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Most used languages:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thegetosuguru&show_icons=true&locale=en&layout=compact" alt="thegetosuguru" />
 </p>
 
+<h3 align="left">Me all day night:</h3>
 <p align="center">
-  <img src="https://i.giphy.com/KpACNEh8jXK2Q.webp" alt="fun gif" width="300" />
+  <img src="https://i.giphy.com/KpACNEh8jXK2Q.webp" alt="fun gif" width="600" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
