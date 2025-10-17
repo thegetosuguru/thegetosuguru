@@ -23,7 +23,7 @@
 
 <h3 align="left">Me all day and night:</h3>
 <p align="left">
-  <img src="https://i.giphy.com/KpACNEh8jXK2Q.webp" alt="fun gif" width="500" />
+  <img src="https://i.giphy.com/KpACNEh8jXK2Q.webp" alt="fun gif" width="100%" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
