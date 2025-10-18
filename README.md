@@ -41,7 +41,6 @@
 
 <h3 align="left">Most used Languages:</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thegetosuguru&show_icons=true&locale=en&layout=compact&theme=dark" width="100%" alt="thegetosuguru" /></p>
-<h3 align="left">Most used Languages:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thegetosuguru&theme=dark" width="100%" alt="thegetosuguru" /></p>
 
 <h3 align="left">Me all day and night:</h3>
