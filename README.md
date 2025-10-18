@@ -1,19 +1,13 @@
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thegetosuguru" alt="thegetosuguru" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegetosuguru&show_icons=true&theme=dark&locale=en&layout=compact" width="100%" alt="thegetosuguru" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegetosuguru&show_icons=true&theme=dark&locale=en&layout=compact" alt="thegetosuguru" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thegetosuguru&show_icons=true&theme=dark&locale=en" alt="thegetosuguru" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thegetosuguru&theme=dark" alt="thegetosuguru" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thegetosuguru&theme=dark" width="100%" alt="thegetosuguru" /></p>
 
 
 <h1 align="left">Hi 👋, I'm Refat al hasan</h1>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thegetosuguru" alt="thegetosuguru" /></a> </p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=thegetosuguru&label=Profile%20views&color=0e75b6&style=flat" alt="thegetosuguru" />
