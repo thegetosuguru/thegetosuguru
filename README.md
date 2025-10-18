@@ -2,7 +2,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegetosuguru&show_icons=true&theme=dark&locale=en&layout=compact" width="100%" alt="thegetosuguru" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thegetosuguru&theme=dark" width="100%" alt="thegetosuguru" /></p>
+
 
 
 <h1 align="left">Hi 👋, I'm Refat al hasan</h1>
@@ -44,10 +44,8 @@
 </p>
 
 
-<h3 align="left">Most used languages:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thegetosuguru&show_icons=true&locale=en&layout=compact&theme=dark" width="100%" alt="thegetosuguru" />
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thegetosuguru&show_icons=true&locale=en&layout=compact&theme=dark" width="100%" alt="thegetosuguru" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thegetosuguru&theme=dark" width="100%" alt="thegetosuguru" /></p>
 
 <h3 align="left">Me all day and night:</h3>
 <p align="left">
