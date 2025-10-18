@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Refat al hasan</h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thegetosuguru" alt="thegetosuguru" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thegetosuguru" width="100%"  alt="thegetosuguru" /></a> </p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=thegetosuguru&label=Profile%20views&color=0e75b6&style=flat" alt="thegetosuguru" />
