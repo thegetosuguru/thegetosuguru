@@ -7,6 +7,12 @@
 <p align="left">
   📫 How to reach me: <a href="https://t.me/refatalhasan">Telegram</a>
 </p>
+<p>
+  💼 Projects:
+  <a href="https://www.linkedin.com/in/mdrefatalhasan/details/projects/" target="_blank" rel="noopener noreferrer">
+    View on LinkedIn
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
