@@ -4,15 +4,16 @@
   <img src="https://komarev.com/ghpvc/?username=thegetosuguru&label=Profile%20views&color=0e75b6&style=flat" alt="thegetosuguru" />
 </p>
 
-<p align="left">
-  📫 How to reach me: <a href="https://t.me/refatalhasan">Telegram</a>
-</p>
 <p>
   💼 Projects:
   <a href="https://www.linkedin.com/in/mdrefatalhasan/details/projects/" target="_blank" rel="noopener noreferrer">
     View on LinkedIn
   </a>
 </p>
+<p align="left">
+  📫 How to reach me: <a href="https://t.me/refatalhasan">Telegram</a>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
