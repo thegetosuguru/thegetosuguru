@@ -1,10 +1,3 @@
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegetosuguru&show_icons=true&theme=dark&locale=en&layout=compact" width="100%" alt="thegetosuguru" /></p>
-
-
-
-
 <h1 align="left">Hi 👋, I'm Refat al hasan</h1>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thegetosuguru" alt="thegetosuguru" /></a> </p>
@@ -43,8 +36,9 @@
   </a>
 </p>
 
-
+<h3 align="left">Most used Languages:</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thegetosuguru&show_icons=true&locale=en&layout=compact&theme=dark" width="100%" alt="thegetosuguru" /></p>
+---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thegetosuguru&theme=dark" width="100%" alt="thegetosuguru" /></p>
 
 <h3 align="left">Me all day and night:</h3>
