@@ -7,7 +7,7 @@
 <p>
   💼 Projects:
   <a href="https://www.linkedin.com/in/mdrefatalhasan/details/projects/" target="_blank" rel="noopener noreferrer">
-    View on LinkedIn
+    LinkedIn
   </a>
 </p>
 <p align="left">
