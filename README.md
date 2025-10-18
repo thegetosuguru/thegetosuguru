@@ -37,7 +37,7 @@
 
 <h3 align="left">Most used languages:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thegetosuguru&show_icons=true&locale=en&layout=compact" alt="thegetosuguru" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thegetosuguru&show_icons=true&locale=en&layout=compact" width="100%" alt="thegetosuguru" />
 </p>
 
 <h3 align="left">Me all day and night:</h3>
