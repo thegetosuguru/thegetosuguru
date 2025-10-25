@@ -10,9 +10,6 @@
     LinkedIn
   </a>
 </p>
-<p align="left">
-  📫 How to reach me: <a href="https://t.me/refatalhasan">Telegram</a>
-</p>
 
 
 <h3 align="left">Connect with me:</h3>
