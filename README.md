@@ -20,13 +20,13 @@
   <a href="https://www.linkedin.com/in/mdrefatalhasan/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdrefatalhasan" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/thegetosuguru" target="blank">
+  <a href="https://www.leetcode.com/refatalhasan_kaif" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thegetosuguru" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/thegetosuguru" target="blank">
+  <a href="https://codeforces.com/profile/refatalhasankaif" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thegetosuguru" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/getosuguru" target="blank">
+  <a href="https://www.codechef.com/users/mdrefatalhasan" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thegetosuguru" height="30" width="40" />
   </a>
 </p>
