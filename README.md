@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=thegetosuguru&label=Profile%20views&color=0e75b6&style=flat" alt="thegetosuguru" />
 </p>
 
-<h3 align="left">Connect with me:</h3
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.leetcode.com/refatalhasan_kaif" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thegetosuguru" height="30" width="40" />
@@ -125,9 +125,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
   <img width="12" />
