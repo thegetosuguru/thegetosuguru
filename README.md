@@ -6,6 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=thegetosuguru&label=Profile%20views&color=0e75b6&style=flat" alt="thegetosuguru" />
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=refatalhasankaif&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.leetcode.com/refatalhasan_kaif" target="blank">
@@ -144,11 +147,12 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=refatalhasankaif&show_icons=true&locale=en&layout=compact" alt="refatalhasankaif" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=refatalhasankaif&show_icons=true&locale=en" alt="refatalhasankaif" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=refatalhasankaif&" alt="refatalhasankaif" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=refatalhasankaif&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
+<br/> ###
+![](https://nirzak-streak-stats.vercel.app/?user=refatalhasankaif&theme=transparent&hide_border=false)
+<br/> ###
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=refatalhasankaif&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
 
