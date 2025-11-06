@@ -8,7 +8,7 @@
 
 <h1 align="left">Hi 👋, I'm Refat al hasan</h1>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
   <a href="https://www.leetcode.com/refatalhasan_kaif" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thegetosuguru" height="30" width="40" />
@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools:</h3>
 
 ###
 
@@ -146,14 +146,6 @@
 
 ###
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=refatalhasankaif&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=refatalhasankaif&theme=transparent&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=refatalhasankaif&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-###
 
 <img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnI4ZTFvaHRkdDJoZ2hyNTZ3YXl6ZXI2NXBzY3NldmxzZmhzejV4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif"  />
 
