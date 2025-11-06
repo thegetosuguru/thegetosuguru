@@ -2,8 +2,6 @@
 
 <img src="./banner.png" alt="Banner" width="100%" />
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnI4ZTFvaHRkdDJoZ2hyNTZ3YXl6ZXI2NXBzY3NldmxzZmhzejV4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif"  />
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=thegetosuguru&label=Profile%20views&color=0e75b6&style=flat" alt="thegetosuguru" />
 </p>
@@ -145,3 +143,5 @@
 </div>
 
 ###
+
+<img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnI4ZTFvaHRkdDJoZ2hyNTZ3YXl6ZXI2NXBzY3NldmxzZmhzejV4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif"  />
