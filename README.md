@@ -144,4 +144,14 @@
 
 ###
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=refatalhasankaif&show_icons=true&locale=en&layout=compact" alt="refatalhasankaif" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=refatalhasankaif&show_icons=true&locale=en" alt="refatalhasankaif" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=refatalhasankaif&" alt="refatalhasankaif" /></p>
+
+###
+
 <img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnI4ZTFvaHRkdDJoZ2hyNTZ3YXl6ZXI2NXBzY3NldmxzZmhzejV4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif"  />
+
+
