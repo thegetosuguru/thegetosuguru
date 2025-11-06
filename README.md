@@ -21,29 +21,6 @@
   </a>
 </p>
 
-<h1 align="left">Hi 👋, I'm Refat al hasan</h1>
-
-<img src="./banner.png" alt="Banner" width="100%" />
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHl0bWxoM2h0eHp0YXR5dGp3ZjNmZTlzbjh2bW9scjN3a2FhMWg3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.webp"  />
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=thegetosuguru&label=Profile%20views&color=0e75b6&style=flat" alt="thegetosuguru" />
-</p>
-
-<h3 align="left">Connect with me:</h3
-<p align="left">
-  <a href="https://www.leetcode.com/refatalhasan_kaif" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thegetosuguru" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/refatalhasankaif" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thegetosuguru" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/mdrefatalhasan" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thegetosuguru" height="30" width="40" />
-  </a>
-</p>
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
