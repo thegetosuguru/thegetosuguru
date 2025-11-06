@@ -1,12 +1,9 @@
 <h1 align="left">Hi 👋, I'm Refat al hasan</h1>
 
-<img src="./banner.png" alt="Banner" width="100%" />
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=thegetosuguru&label=Profile%20views&color=0e75b6&style=flat" alt="thegetosuguru" />
 </p>
-
-## 🏆 GitHub Trophies
+<img src="./banner.png" alt="Banner" width="100%" />
 ![](https://github-profile-trophy.vercel.app/?username=refatalhasankaif&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
 <h3 align="left">Connect with me:</h3>
