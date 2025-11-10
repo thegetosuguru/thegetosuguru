@@ -8,7 +8,7 @@
 
 <h1 align="left">Hi 👋, I'm Refat al hasan</h1>
 
-### 🔗 My Profiles
+### 🔗 My Profiles:
 
 <p align="left">
   <a href="https://www.leetcode.com/refatalhasan_kaif" target="blank">
