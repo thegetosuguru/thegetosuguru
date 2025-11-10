@@ -1,4 +1,4 @@
-<img src="./banner.png" alt="Banner" width="100%" />
+<img src="./cover.gif" alt="Banner" width="100%" />
 
 ![](https://github-profile-trophy.vercel.app/?username=refatalhasankaif&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
