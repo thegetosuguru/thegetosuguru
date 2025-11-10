@@ -8,18 +8,26 @@
 
 <h1 align="left">Hi 👋, I'm Refat al hasan</h1>
 
-<h3 align="left">🔗 Connect with me:</h3>
+### 🔗 My Profiles
+
 <p align="left">
   <a href="https://www.leetcode.com/refatalhasan_kaif" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thegetosuguru" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/refatalhasankaif" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thegetosuguru" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/mdrefatalhasan" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thegetosuguru" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/refatalhasan" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" height="30" width="40" />
+  </a>
+  <a href="https://developers.google.com/profile/u/refatalhasan" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/google.svg" height="30" width="40" />
   </a>
 </p>
+
 
 <h3 align="left">🛠 Language and tools:</h3>
 
