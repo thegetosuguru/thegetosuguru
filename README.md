@@ -12,7 +12,7 @@
 
 <p align="left">
   <a href="https://t.me/refatalhasan" target="blank">
-  <img src="./t.webp" height="35" width="35" />
+  <img src="./t.webp" height="30" width="31" />
 </a>
   <a href="https://www.leetcode.com/refatalhasan_kaif" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
