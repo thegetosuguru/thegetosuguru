@@ -20,9 +20,9 @@
   <a href="https://www.codechef.com/users/mdrefatalhasan" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
   </a>
-  <a href="https://t.me/refatalhasan" target="blank">
-    <img src="https://i.ibb.co.com/yBQsWrPr/proxy-image.png" height="30" width="40" />
-  </a>
+<a href="https://t.me/refatalhasan" target="blank">
+  <img src="https://i.ibb.co.com/yBQsWrPr/proxy-image.png" height="30" width="40" />
+</a>
 </p>
 
 
